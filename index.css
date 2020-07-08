@@ -1,0 +1,110 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.banner{
+  background-color: #F1FFF0;
+}
+
+.logo{
+  width: 150px;
+}
+
+.schedule{
+  color: #21B573;
+}
+
+.ready{
+  color: #FC6431;
+}
+
+#navigation{
+  background-color: #F1FFF0; !important
+}
+
+.button{
+  border: none;
+  border-radius: 20px;
+  background-color: #21B573;
+  color: white;
+  padding: 10px 15px;
+}
+
+.card-deck{
+  margin-top: 60px;
+}
+
+.card {
+  width: 5%;
+  height: 5%;
+  border: none;
+  background-color: #F1FFF0;
+  border-radius: 10px;
+}
+
+.chover:hover{
+  background-color: white;
+  box-shadow: 10px 10px 10px lightgray;
+}
+
+.card-deck .card img{
+  width: 15%;
+  margin: 10% auto;
+}
+
+.card-title, .card-text{
+  text-align: center;
+}
+
+.online-course{
+  text-align: center;
+  margin-top: 5%;
+}
+
+.cpart2 img {
+  width: 30%;
+}
+
+.course2{
+  text-align: left;
+}
+
+.image img{
+  width: 150px;
+  margin: 5%;
+}
+
+.test{
+  margin-top: 80px;
+}
+
+.end{
+  width: 100%;
+}
+
+.last-section{
+  background-color: #282531;
+  margin-top: 30px;
+}
+
+.last-section .col-md-3{
+  margin-top: 60px;
+}
+
+.last-section .col-md-3 li{
+  list-style: none;
+}
+
+.row{
+  margin: 0 auto;
+}
+
+.foo{
+  margin: 0 auto;;
+  margin-top: 30px;
+}
+
+.f1{
+  display: flex;
+}
